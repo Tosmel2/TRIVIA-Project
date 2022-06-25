@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trivia App Project
 
 Trivia App project  is a game website that was created as part of my udacity course with some modifications from me,random questions are generated for you to answer based on the category you selected, it was developed using flask for backend and a react frontend.
@@ -146,3 +147,6 @@ the documentation for the api is in the backend folder, [link here](./backend/AP
 
 
 
+=======
+# TRIVIA-Project
+>>>>>>> 6b8914eeef0ce473efdccb22cce073d01679f3c5
